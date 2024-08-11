@@ -1,0 +1,40 @@
+Detail explanation :
+
+Step1 : 
+Help -> Eclipse market place -> Check Egit intalled 
+
+ Step 2: 
+SSH Key
+windows -> preference -> General -> Network Connection -> SSH2 -> Key Management -> Generate RSA -> Select -> cope the key and save it in one place for future use -> Apply & close.
+
+ Step 3: 
+Got to your Git Hub Account
+Profile icon -> Settings -> left side select SSH & GPG Keys -> Select New SSH key -> Give title as you wish and past the Copied ssh key in Key box -> Click Add SSH Key
+
+ Step 4: 
+To See the Repository
+Go to windows -> show view -> others -> git repository -> Open
+
+ Step 5: 
+Push the project into Git
+Right click on the project -> Team -> Share project -> Create repository -> select your path by using browse then finish it. (Local Repository will be created)
+
+ Step 6: 
+To Commit
+Right click your project -> Team -> Commit
+Give some commit message and commit it
+
+ Step 7: 
+Right click on remote -> Create Remotes -> Create -> URL Changes
+
+ Step 8: 
+Create the repository -> Copy SSH URL -> Paste in Eclipse URL -> Finish
+Advanced -> heads/master -> Add spec -> finish
+
+ Step 9: 
+To Check:
+Dry run -> If there is any issues you will get error message if not you did right -> close -> Save & Push
+
+ Step 10: 
+Check Your Git Hub account
+Code -> Click Your project -> src for your code
