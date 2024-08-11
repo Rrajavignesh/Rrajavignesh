@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rrajavignesh
-- 👀 I’m interested in Web Devekopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning FullStack Development
 - 💞️ I’m looking to collaborate on my colleague 
 - 📫 How to reach me 
